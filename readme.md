@@ -5,7 +5,7 @@ It uses Hugging Face Transformers library for efficient model loading, tokenizat
 
 ---
 
-##Overview
+#Overview
 
 Code-mixed languages like **Hinglish** (Hindi and English) are commonly used in social media and texts, but most translation models handle only monolingual input.  
 This project adapts an existing multilingual model to better understand Hinglish syntax, romanized Hindi, and informal expressions.
