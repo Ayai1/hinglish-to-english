@@ -12,7 +12,7 @@ This project adapts an existing multilingual model to better understand Hinglish
 
 ---
 
-##Features
+#Features
 
 - Loads and fine tunel pretrained model
 - Handles **Hinglish text preprocessing and cleaning**
