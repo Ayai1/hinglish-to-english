@@ -1,0 +1,1 @@
+# Core dependenciestorch>=2.0.0transformers>=4.42.0datasets>=2.20.0sentencepiece>=0.2.0sacrebleu>=2.4.0evaluate>=0.4.0# For training and performanceaccelerate>=0.33.0numpy>=1.26.0pandas>=2.2.0scikit-learn>=1.5.0# For notebook and visualizationjupytermatplotlib>=3.9.0tqdm>=4.66.0
