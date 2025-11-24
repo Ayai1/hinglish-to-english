@@ -1,4 +1,4 @@
-#Hinglish to English
+#Hinglish to English Translation
 
 This project fine-tunes a **pretrained neural machine translation (NMT)** model to translate **Hinglish (Hindi–English code-mixed text)** into fluent **English**.  
 It uses Hugging Face Transformers library for efficient model loading, tokenization, and fine-tuning.
