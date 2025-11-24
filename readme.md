@@ -5,7 +5,7 @@ It uses the **Hugging Face Transformers** library for efficient model loading, t
 
 ---
 
-##Overview
+## Overview
 
 Code-mixed languages like **Hinglish** (Hindi words written in English script) are widely used on social media, chats, and everyday text.  
 Most translation models fail on Hinglish because they are trained on **pure Hindi** or **pure English**, not mixed input.
@@ -21,7 +21,7 @@ The trained model outputs fluent English translations with improved accuracy.
 
 ---
 
-##Features
+## Features
 
 - Loads and fine-tunes a **pretrained NMT transformer model**
 - Handles **Hinglish text preprocessing, cleaning, and normalization**
@@ -55,7 +55,7 @@ Pipeline:
 - Mini-batch training with AdamW  
 - BLEU/ROUGE evaluation
   
-Results:
+## Results:
 
 <img width="1000" height="359" alt="image" src="https://github.com/user-attachments/assets/e73f221c-2d32-4ae0-92dd-2c4a7e481bdd" />
 
